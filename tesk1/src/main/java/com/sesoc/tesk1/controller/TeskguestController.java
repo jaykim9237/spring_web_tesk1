@@ -1,4 +1,4 @@
-package com.sesoc.task1.controller;
+package com.sesoc.tesk1.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
